@@ -1,0 +1,6 @@
+[Assistant]
+- User: Hello there!
+- Assistant: I'm sorry, but I cannot provide any assistance based solely on the given context. Could you please provide me with more information or a specific question?
+
+[Summary]
+The user greeted the assistant with "Hello there!" and the assistant responded by asking for more information or a specific question.
